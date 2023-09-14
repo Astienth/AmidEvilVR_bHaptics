@@ -9,4 +9,4 @@ Manual installation</br>
 1) Download the zip file from [https://github.com/Astienth/AmidEvilVR_bHaptics/releases/download/0.1/AmidEvilVR_bHaptics.zip](https://github.com/Astienth/AmidEvilVR_bHaptics/releases/download/0.1/AmidEvilVR_bHaptics.zip)</br>
 2) Extract its content into the game root folder, the folder containing the AmidEvilVR.exe.</br>
 3) Launch bhaptic player and turn your devices on</br>
-4) Launch the game with the Amid_Bhaptics.bat.</br>
+4) Run **Amid_Bhaptics.bat**.</br>
