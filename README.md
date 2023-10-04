@@ -5,6 +5,8 @@
 
 </br>[https://store.steampowered.com/app/2320910/AMID_EVIL_VR/](https://store.steampowered.com/app/2320910/AMID_EVIL_VR/)
 
+☕ If you wanna show some support you can buy me a coffee : https://www.buymeacoffee.com/astienth4
+
 <b>Supported devices :</b> Vest and arms
 
 <b>Manual installation</b></br>
